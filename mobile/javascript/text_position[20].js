@@ -1,0 +1,1 @@
+﻿positionForPages[21]=[{word:"Mechanism of tooth decay.",left:-0.900067,top:0.092796,width:1.166200,height:0.992856},{word:"Bacteria in the presence of sugary substance  ",left:-0.880067,top:0.048068,width:1.218953,height:0.928128},{word:"produce acid that causes demineralization of teeth.",left:-0.880067,top:0.040069,width:1.288341,height:0.920129}];

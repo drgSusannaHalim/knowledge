@@ -1,0 +1,1 @@
+﻿positionForPages[6]=[{word:"ANATOMY OFTOOTH",left:0.083267,top:0.058032,width:0.120044,height:0.025235},{word:"",left:0.119933,top:0.037709,width:0.174962,height:0.082224},{word:"Longitudnal section of tooth.",left:0.179933,top:0.040000,width:0.115749,height:0.139933}];

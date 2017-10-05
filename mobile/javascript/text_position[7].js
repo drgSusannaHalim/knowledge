@@ -1,0 +1,1 @@
+﻿positionForPages[8]=[{word:"Types of teeth",left:0.099933,top:0.066617,width:0.130144,height:0.033316},{word:"",left:0.119933,top:0.037672,width:0.223842,height:0.082261},{word:"On the basis of shape and function",left:0.179933,top:0.056000,width:0.164628,height:0.123933}];
